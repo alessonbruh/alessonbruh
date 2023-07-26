@@ -1,3 +1,5 @@
+Graduado em Ciências da Computação pela UFBA (Universidade Federal da Bahia).
+Analista de Sistemas Pleno em Nodejs, Typescript/Javascript, Vuejs.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <div>
   <a href="https://github.com/alessonbruh">
